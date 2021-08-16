@@ -4,5 +4,6 @@
   box-sizing: border-box;
   font-family: arial;
   scroll-behavior: smooth;
+  line-height: 1.5;
 }
 
